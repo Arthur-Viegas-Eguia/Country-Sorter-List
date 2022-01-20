@@ -1,5 +1,5 @@
 # Sorted-Country-List
-Homework developed for the Data Structures class.
+Adaptation of code which was originally developed as homework for my Data Structures class.
 ## Overview
 The program models a list of countries, sorted in ascending order based on a predetermined indicator. It displays the top/bottom X countries based on the value of the selected indicator. 
 With this program you can:
